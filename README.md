@@ -1,3 +1,5 @@
+<img src="https://github.com/Inficial-Infotech/Adhikaar-News/raw/master/logo.png" title="Adhikaar News" alt="Adhikaar News">
+
 # Adhikaar News
 
 A Gujarati (ગુજરાતી) news site developed in WordPress.
@@ -19,6 +21,10 @@ Before you continue, ensure you meet the following requirements:
 8. That's it....✅
 
 ## 🖼️ Screenshots
+
+<img src="https://github.com/Inficial-Infotech/Adhikaar-News/raw/master/Screenshots/1.png" title="Home Page" alt="Home Page">
+
+<img src="https://github.com/Inficial-Infotech/Adhikaar-News/raw/master/Screenshots/2.png" title="Post Page" alt="Post Page">
 
 ## 🔗 Live Project Link
 `https://www.adhikaarnews.com`
