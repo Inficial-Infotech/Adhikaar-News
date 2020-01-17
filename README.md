@@ -2,7 +2,7 @@
 
 # Adhikaar News
 
-A Gujarati (ગુજરાતી) news site developed in WordPress.
+A Gujarati (ગુજરાતી) news site developed in WordPress. The site delivers Gujarati news as well as some useful information about human rights in the Gujarati language.
 
 ## 🔧 Prerequisites
 Before you continue, ensure you meet the following requirements:
